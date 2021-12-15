@@ -1,4 +1,3 @@
-# ssl-bypass
 # Dead by Daylight - SSL Bypass
 
 SSL Bypass is a bypass that allows you to pass a "certificate root verification" while using certain programs that are using anything connected to Fiddler or Fiddler itself
