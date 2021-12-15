@@ -38,3 +38,7 @@ If you find yourself in position where your SSL file is being detected by EAC or
 `If this doesn't work, verify your files and do the process from Installation again. If you find yourself in a situation where neither of these things works, keep trying. When you are devastated from trying, contact us on Discord or make an Issue ticket`
 
 *More issues will be added upon reporting/experience*
+
+## Version
+
+Current version of this project is 5.4.2 (therefore it works on 5.4.2 version of Dead by Daylight)
